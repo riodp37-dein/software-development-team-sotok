@@ -1,0 +1,1 @@
+Frontend membuat desain halaman seperti layout, tombol, form, menu, dan komponen visual lainnya agar website atau aplikasi terlihat rapi dan menarik dan Frontend memastikan pengguna dapat menggunakan aplikasi dengan mudah, misalnya saat mengisi form, menekan tombol, atau berpindah halaman
